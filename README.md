@@ -11,7 +11,7 @@ You are given a pre-trained, `sklearn` model that has been trained to predict ho
 Your project goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. In this project you will:
 * Test your project code using linting
 * Complete a Dockerfile to containerize this application
-* Deploy your containerized applications using Docker and make a prediction
+* Deploy your containerized application using Docker and make a prediction
 * Improve the log statements in the source code for this application
 * Configure Kubernetes and create a Kubernetes cluster
 * Deploy a container using Kubernetes and make a prediction
